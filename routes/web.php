@@ -13,7 +13,7 @@
 
 Route::get('/', function () {
     //return view('welcome');
-    return 'Home';
+    return 'Home, sweet home Alabama';
 });
 
 
